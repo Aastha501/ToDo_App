@@ -43,4 +43,14 @@ Table of Contents
 - Once installed, the app will launch automatically on the emulator or device. If it doesn't, you can manually open the app on the device.
 
 ## Screenshots
+![Todo App Screenshot 1](Screenshots/Screenshot-1.jpg)
 
+![Todo App Screenshot 2](Screenshots/Screenshot-2.jpg)
+
+![Todo App Screenshot 1](Screenshots/Screenshot-3.jpg)
+
+![Todo App Screenshot 2](Screenshots/Screenshot-3.jpg)
+
+![Todo App Screenshot 1](Screenshots/Screenshot-5.jpg)
+
+![Todo App Screenshot 2](Screenshots/Screenshot-6.jpg)
